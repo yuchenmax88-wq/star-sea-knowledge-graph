@@ -1,0 +1,14 @@
+# 本地临时文件
+星海知识图谱星空海洋网站.txt
+_*.png
+_backup/
+tools/_nodes/
+tools/_*.js
+
+# 系统 / 编辑器垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.log

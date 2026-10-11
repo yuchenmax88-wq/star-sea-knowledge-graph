@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>星海知识图谱 · Star Sea Knowledge Graph</title>
+<meta name="description" content="星海知识图谱：6400+ 个知识节点连成星座的三维交互式知识图谱，纯静态、零后端。" />
+<meta name="theme-color" content="#03060f" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="星海知识图谱" />
+<meta property="og:description" content="把零散的知识连成星座 —— 三维交互式知识图谱。" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23030816'/%3E%3Ccircle cx='16' cy='14' r='3.4' fill='%236ee7ff'/%3E%3Ccircle cx='8' cy='22' r='2' fill='%234d8dff'/%3E%3Ccircle cx='24' cy='22' r='2' fill='%23ff7ab6'/%3E%3Cpath d='M16 14 8 22M16 14l8 8M8 22h16' stroke='%235cc8ff' stroke-width='1.2' fill='none' opacity='.7'/%3E%3C/svg%3E" />
+<link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+  <!-- z0 背景：星空 + 星云 + 海面 -->
+  <canvas id="bg" aria-hidden="true"></canvas>
+  <!-- z1 三维场景（three.js），背景透明 -->
+  <canvas id="graph" aria-label="知识图谱三维视图"></canvas>
+  <!-- z3 标签层：把三维坐标投影到屏幕上写字 -->
+  <canvas id="overlay" aria-hidden="true"></canvas>
+
+  <div class="vignette" aria-hidden="true"></div>
+
+  <!-- 顶部：标题 + 搜索 -->
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <div class="brand-text">
+        <h1>星海知识图谱</h1>
+        <p>把零散的知识连成星座</p>
+      </div>
+    </div>
+    <div class="search">
+      <span class="search-icon" aria-hidden="true"></span>
+      <input id="search" type="search" placeholder="搜索知识节点…" autocomplete="off" spellcheck="false" aria-label="搜索知识节点" />
+      <div class="suggest" id="suggest" role="listbox" hidden></div>
+    </div>
+  </header>
+
+  <!-- 左侧：领域 + 关系类型 -->
+  <aside class="panel legend" id="legendPanel">
+    <div class="panel-head">
+      <span>知识领域</span>
+      <button class="mini" id="legendToggle" type="button">收起</button>
+    </div>
+    <div class="legend-list" id="legendList"></div>
+    <div class="panel-head sub"><span>关系类型</span></div>
+    <div class="legend-list types" id="typeList"></div>
+  </aside>
+
+  <!-- 右侧：节点详情 -->
+  <aside class="drawer" id="drawer" aria-hidden="true">
+    <button class="drawer-close" id="drawerClose" type="button" aria-label="关闭">✕</button>
+    <div class="drawer-body" id="drawerBody"></div>
+  </aside>
+
+  <!-- 右下：工具 -->
+  <div class="tools">
+    <button id="btnFit"     type="button" title="适配全览（F）">⤢</button>
+    <button id="btnReset"   type="button" title="重置视角（R）">↺</button>
+    <button id="btnSpin"    type="button" title="自动旋转（S）">⟳</button>
+    <button id="btnPhysics" type="button" title="暂停 / 继续布局（空格）">❚❚</button>
+    <button id="btnLabels"  type="button" title="显示 / 隐藏标签（A）">A</button>
+    <button id="btnDim"     type="button" title="切换二维 / 三维视图">3D</button>
+    <button id="btnWarp"    type="button" title="重新随机播撒（W）">✦</button>
+  </div>
+
+  <!-- 底部状态条 -->
+  <div class="hud">
+    <span id="stats">加载中…</span>
+    <span class="hud-sep" aria-hidden="true"></span>
+    <span class="hint">拖动节点 · 空白拖拽转视角 · 滚轮缩放 · 右键或 Shift 拖拽平移 · 双击空白复位 · 右下可切 2D / 3D · 按 / 搜索</span>
+  </div>
+
+  <!-- 1. 数据注册表 -->
+  <script src="assets/js/data.js"></script>
+
+  <!-- 2. 各领域的数据分片（加一行就多一个星座） -->
+  <script src="assets/data/domains/circuit.js"></script>
+  <script src="assets/data/domains/thermal.js"></script>
+  <script src="assets/data/domains/power.js"></script>
+  <script src="assets/data/domains/renewable.js"></script>
+  <script src="assets/data/domains/grid.js"></script>
+  <script src="assets/data/domains/storage.js"></script>
+  <script src="assets/data/domains/protect.js"></script>
+  <script src="assets/data/domains/embed.js"></script>
+  <script src="assets/data/domains/hv.js"></script>
+  <script src="assets/data/domains/control.js"></script>
+  <script src="assets/data/domains/electronics.js"></script>
+  <script src="assets/data/domains/code.js"></script>
+  <script src="assets/data/domains/motor.js"></script>
+  <script src="assets/data/domains/signal.js"></script>
+  <script src="assets/data/domains/ai.js"></script>
+  <script src="assets/data/domains/comm.js"></script>
+  <script src="assets/data/domains/math.js"></script>
+  <script src="assets/data/domains/industrial.js"></script>
+  <script src="assets/data/domains/standard.js"></script>
+  <script src="assets/data/domains/practice.js"></script>
+  <script src="assets/data/domains/ev.js"></script>
+  <script src="assets/data/domains/building.js"></script>
+  <script src="assets/data/domains/datacenter.js"></script>
+  <script src="assets/data/domains/rail.js"></script>
+  <script src="assets/data/domains/carbon.js"></script>
+  <script src="assets/data/domains/market.js"></script>
+  <script src="assets/data/domains/material.js"></script>
+  <script src="assets/data/domains/wireless.js"></script>
+  <script src="assets/data/domains/whist.js"></script>
+  <script src="assets/data/domains/chist.js"></script>
+  <script src="assets/data/domains/thist.js"></script>
+  <script src="assets/data/domains/physics.js"></script>
+  <script src="assets/data/domains/chemistry.js"></script>
+  <script src="assets/data/domains/biology.js"></script>
+  <script src="assets/data/domains/astronomy.js"></script>
+  <script src="assets/data/domains/earth.js"></script>
+  <script src="assets/data/domains/medicine.js"></script>
+  <script src="assets/data/domains/economics.js"></script>
+  <script src="assets/data/domains/philosophy.js"></script>
+  <script src="assets/data/domains/mechanical.js"></script>
+  <script src="assets/data/domains/civil.js"></script>
+  <script src="assets/data/domains/chemeng.js"></script>
+  <script src="assets/data/domains/aerospace.js"></script>
+  <script src="assets/data/domains/ocean.js"></script>
+  <script src="assets/data/domains/agriculture.js"></script>
+  <script src="assets/data/domains/food.js"></script>
+  <script src="assets/data/domains/envsci.js"></script>
+  <script src="assets/data/domains/security.js"></script>
+  <script src="assets/data/domains/database.js"></script>
+  <script src="assets/data/domains/software.js"></script>
+  <script src="assets/data/domains/statistics.js"></script>
+  <script src="assets/data/domains/psychology.js"></script>
+  <script src="assets/data/domains/law.js"></script>
+  <script src="assets/data/domains/sociology.js"></script>
+  <script src="assets/data/domains/management.js"></script>
+  <script src="assets/data/domains/education.js"></script>
+  <script src="assets/data/domains/linguistics.js"></script>
+  <script src="assets/data/domains/literature.js"></script>
+  <script src="assets/data/domains/art.js"></script>
+
+  <!-- 2b. 跨领域关系（把 59 个星座连成一张网） -->
+  <script src="assets/data/edges/cross-A.js"></script>
+  <script src="assets/data/edges/cross-B.js"></script>
+  <script src="assets/data/edges/cross-C.js"></script>
+  <script src="assets/data/edges/cross-D.js"></script>
+  <script src="assets/data/edges/cross-E.js"></script>
+  <script src="assets/data/edges/cross-F.js"></script>
+  <script src="assets/data/edges/cross-G.js"></script>
+  <script src="assets/data/edges/cross-H.js"></script>
+  <script src="assets/data/edges/cross-I.js"></script>
+  <script src="assets/data/edges/cross-J.js"></script>
+  <script src="assets/data/edges/cross-K.js"></script>
+  <script src="assets/data/edges/cross-L.js"></script>
+  <script src="assets/data/edges/cross-M.js"></script>
+  <script src="assets/data/edges/cross-O.js"></script>
+  <script src="assets/data/edges/cross-P.js"></script>
+  <script src="assets/data/edges/cross-Q.js"></script>
+  <script src="assets/data/edges/cross-R.js"></script>
+  <script src="assets/data/edges/cross-S.js"></script>
+  <script src="assets/data/edges/cross-T.js"></script>
+  <script src="assets/data/edges/cross-U.js"></script>
+  <script src="assets/data/edges/cross-V.js"></script>
+
+  <!-- 3. 渲染与逻辑 -->
+  <script src="assets/vendor/three.min.js" defer></script>
+  <script src="assets/js/starfield.js" defer></script>
+  <script src="assets/js/render3d.js" defer></script>
+  <script src="assets/js/render2d.js" defer></script>
+  <script src="assets/js/graph.js" defer></script>
+</body>
+</html>
