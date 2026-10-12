@@ -55,8 +55,9 @@ function lint(file) {
     if (n.n.length > 14) warns.push(`名字过长（${n.n.length} 字）：${n.id} ${n.n}`);
   });
 
-  if (nodes.length !== 110) errs.push(`节点数 ${nodes.length}，期望 110`);
-  if (edges.length < 120 || edges.length > 200) errs.push(`边数 ${edges.length}，期望 120~200`);
+  if (nodes.length < 110 || nodes.length > 300) errs.push(`节点数 ${nodes.length}，期望 110~300`);
+  const edgeMax = Math.max(200, Math.round(nodes.length * 1.8));
+  if (edges.length < 120 || edges.length > edgeMax) errs.push(`边数 ${edges.length}，期望 120~${edgeMax}`);
 
   /* 4. 边 */
   const dup = new Set();

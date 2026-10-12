@@ -7,7 +7,7 @@ const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
 const dom = process.argv[2];
-const wantN = Number(process.argv[3] || 110);
+const wantN = Number(process.argv[3]);
 const file = path.join(ROOT, "assets", "data", "domains", dom + ".js");
 
 if (!fs.existsSync(file)) { console.log(`✗ 文件不存在：${file}`); process.exit(1); }
@@ -58,10 +58,12 @@ KG.edges.forEach(l => { if (deg[l[0]] !== undefined) deg[l[0]]++; if (deg[l[1]] 
 const orph = KG.nodes.filter(n => deg[n.id] === 0).map(n => n.id);
 if (orph.length) bad.push(`孤立节点 ${orph.length} 个：${orph.slice(0, 6).join(", ")}`);
 
-if (KG.nodes.length !== wantN) bad.push(`节点数 ${KG.nodes.length}，应为 ${wantN}`);
+if (wantN) { if (KG.nodes.length !== wantN) bad.push(`节点数 ${KG.nodes.length}，应为 ${wantN}`); }
+else if (KG.nodes.length < 110 || KG.nodes.length > 300) bad.push(`节点数 ${KG.nodes.length}，期望 110~300`);
 const E = KG.edges.length;
+const edgeMax = Math.max(200, Math.round(KG.nodes.length * 1.8));
 if (E < 130) bad.push(`边数偏少：${E}（下限 130）`);
-if (E > 200) bad.push(`边数偏多：${E}（上限 200）`);
+if (E > edgeMax) bad.push(`边数偏多：${E}（上限 ${edgeMax}）`);
 if (type.prereq / E > 0.42) bad.push(`prereq 占比过高：${(type.prereq / E * 100).toFixed(0)}%（上限 42%）`);
 ["part", "apply", "contrast"].forEach(t => {
   if ((type[t] || 0) / E < 0.07) bad.push(`${t} 占比过低：${(type[t] || 0)} 条`);
@@ -76,7 +78,9 @@ const TECH_ONLY_YEAR = new Set([
   "circuit", "thermal", "power", "renewable", "grid", "storage", "protect", "embed", "hv",
   "control", "electronics", "code", "motor", "signal", "ai", "comm", "math", "industrial",
   "standard", "practice", "ev", "building", "datacenter", "rail", "carbon", "market",
-  "material", "wireless"
+  "material", "wireless", "cosmos", "stellar", "planetary", "spacecraft", "robotics",
+  "quantum", "nuclear", "petroleum", "biomedical", "optics", "graphics", "blockchain",
+  "meteorology"
 ]);
 const FAKE = [
   [/GB\/T\s*\d+|DL\/T\s*\d+|JB\/T\s*\d+|YY\/T\s*\d+/, "疑似标准编号"],

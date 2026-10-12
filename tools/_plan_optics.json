@@ -1,0 +1,1478 @@
+[
+ {
+  "k": "optics-beam-quality",
+  "len": 204,
+  "first": "衡量激光束聚焦能力与发散程度的综合指标。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-beam-splitter",
+  "len": 184,
+  "first": "把一束光分作两束的棱镜元件。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-collimation",
+  "len": 188,
+  "first": "把发散光束校正为近似平行光束的过程。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-cw-laser",
+  "len": 202,
+  "first": "输出在时间上连续、功率稳定的激光器。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-dye-laser",
+  "len": 209,
+  "first": "以有机染料为增益介质的可调谐激光器，波长连续可调。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-ecdl",
+  "len": 190,
+  "first": "用外腔光栅选频实现宽调谐的半导体激光器。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-expander",
+  "len": 218,
+  "first": "增大光束直径、减小发散角的望远式光学系统。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-fiber-laser",
+  "len": 211,
+  "first": "以稀土掺杂光纤为增益介质的激光器，散热好、光束质量高。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-focal-power",
+  "len": 213,
+  "first": "描述透镜偏折光线能力的光学参数。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-frequency-doubling",
+  "len": 217,
+  "first": "利用非线性效应把激光频率加倍的晶体器件。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-gain-medium",
+  "len": 218,
+  "first": "实现光放大的工作物质，是激光器的核心部分。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-gas-laser",
+  "len": 220,
+  "first": "以气体为工作物质的激光器，谱线丰富、相干性好。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-3dprint",
+  "len": 218,
+  "first": "用激光逐层烧结粉末成形三维零件的制造技术。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-3dprint-app",
+  "len": 184,
+  "first": "用于航空零件快速成形的场景。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-align",
+  "len": 202,
+  "first": "用激光束作为直线基准进行平直度检测。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-annealing",
+  "len": 187,
+  "first": "用激光局部加热改性材料薄膜的工艺。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-cladding",
+  "len": 192,
+  "first": "在基体表面堆焊熔覆层以修复或强化表面的工艺。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-cladding-app",
+  "len": 198,
+  "first": "用于修复贵重重型零件的场景。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-cleaning",
+  "len": 204,
+  "first": "用激光去除表面锈蚀涂层污染物的绿色清洗。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-cosmetic",
+  "len": 216,
+  "first": "用激光作用于皮肤色素与血管的美容治疗。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-cutting",
+  "len": 193,
+  "first": "利用高功率激光熔化气化材料实现切割的加工方式。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-cutting-head",
+  "len": 202,
+  "first": "聚焦并辅助吹气完成切割的加工头组件。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-doppler",
+  "len": 217,
+  "first": "利用散射光频移测量流体或固体速度的技术。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-drilling",
+  "len": 216,
+  "first": "用脉冲激光在硬脆材料上加工微孔的工艺。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-engraving",
+  "len": 189,
+  "first": "按图形逐层蚀除材料形成凹陷图案的加工。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-interferometer",
+  "len": 199,
+  "first": "用于纳米级长度校准的精密仪器。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-interferometry",
+  "len": 218,
+  "first": "利用激光干涉条纹进行高精度长度与位移测量。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-marking",
+  "len": 202,
+  "first": "在材料表面烧蚀出永久标记的标识工艺。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-marking-machine",
+  "len": 204,
+  "first": "集成激光器与扫描振镜完成标记的整机设备。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-microfabrication",
+  "len": 215,
+  "first": "在微米尺度进行激光刻蚀与修复的加工。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-proj-app",
+  "len": 185,
+  "first": "用于影院与工程投影的实际场景。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-projection",
+  "len": 213,
+  "first": "用红绿光激光作为光源的投影显示。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-protection",
+  "len": 206,
+  "first": "按波段与等级防护激光对人眼与皮肤伤害的措施。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-ranging",
+  "len": 203,
+  "first": "测量激光往返飞行时间以换算距离的技术。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-ranging-module",
+  "len": 183,
+  "first": "小型化激光测距传感器模组。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-scanner",
+  "len": 216,
+  "first": "二维振镜扫描激光进行成像或打标的系统。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-surface",
+  "len": 203,
+  "first": "用激光改变材料表面组织结构的强化工艺。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-surface-app",
+  "len": 212,
+  "first": "用于轧辊与模具表面强化的场景。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-surgery",
+  "len": 191,
+  "first": "用激光作为手术刀切割或凝固组织的医疗应用。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-therapy",
+  "len": 202,
+  "first": "用低强度激光促进组织修复的理疗方式。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-vibrometer",
+  "len": 188,
+  "first": "用激光多普勒效应测量物体振动的仪器。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-welding",
+  "len": 215,
+  "first": "用激光束熔接金属构件的精密焊接工艺。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-laser-welding-head",
+  "len": 186,
+  "first": "集成聚焦与观察的激光焊接执行头。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-lidar",
+  "len": 190,
+  "first": "以激光束扫描获取目标三维点云的探测系统。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-lidar-app",
+  "len": 210,
+  "first": "用于自动驾驶与测绘的场景。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-microresonator",
+  "len": 187,
+  "first": "环形波导构成选频与滤波的光子器件。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-microresonator-app",
+  "len": 198,
+  "first": "用于光滤波与传感的典型用途。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-modelock",
+  "len": 216,
+  "first": "使各纵模相位锁定以产生超短脉冲的技术。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-optical-power-meter",
+  "len": 201,
+  "first": "测量光纤中光功率大小的便携式仪表。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-point-cloud",
+  "len": 214,
+  "first": "激光雷达扫描得到的三维空间点集合。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-power-stability",
+  "len": 203,
+  "first": "激光输出功率随时间漂移的稳定程度指标。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-pulse-laser",
+  "len": 186,
+  "first": "以离散脉冲形式输出能量的激光器。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-pump",
+  "len": 208,
+  "first": "为增益介质提供能量激励以实现粒子数反转的激励源。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-qswitch",
+  "len": 191,
+  "first": "压缩脉宽、提高峰值功率的脉冲激光调制技术。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-resonator",
+  "len": 198,
+  "first": "由反射镜构成、提供光反馈与选模的谐振结构，决定输出模式。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-semiconductor-laser",
+  "len": 198,
+  "first": "以半导体PN结为增益介质的电注入激光器，体积小、效率高。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-single-frequency-laser",
+  "len": 203,
+  "first": "纵模单一、线宽窄、相干长度长的激光器。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-solid-laser",
+  "len": 226,
+  "first": "以固体激光晶体为增益介质的激光器，输出功率高、光束质量好。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-wavelength-select",
+  "len": 216,
+  "first": "通过腔镜镀膜或光栅挑选输出波长的方法。",
+  "oldTail": "把这些部件组合起来，才能得到一束可用、可控、安全的激光。"
+ },
+ {
+  "k": "optics-apd",
+  "len": 174,
+  "first": "利用雪崩倍增效应提高灵敏度的光电探测器。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-auto-exposure",
+  "len": 162,
+  "first": "根据亮度自动调节曝光时间与增益的功能。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-ccd-cmos-compare",
+  "len": 173,
+  "first": "两类图像传感器在速度噪声功耗上的取舍。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-coating-application",
+  "len": 174,
+  "first": "用于镜头与激光器窗口降低反射的实际用途。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-cooled-detector",
+  "len": 172,
+  "first": "制冷降温以压低暗噪声的高灵敏探测器。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-dark-noise",
+  "len": 170,
+  "first": "无光照时探测器自身产生的电噪声。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-dynamic-range-det",
+  "len": 162,
+  "first": "探测器可分辨从最弱到最强光信号的范围。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-focal-plane",
+  "len": 158,
+  "first": "在像面二维排布的探测像元阵列。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-global-shutter",
+  "len": 170,
+  "first": "整幅画面同时曝光读出的快门方式。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-infrared-detector",
+  "len": 168,
+  "first": "响应红外波段辐射的探测器件。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-photodiode-array",
+  "len": 170,
+  "first": "多个光电探测单元排成阵列的器件。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-pixel-pitch",
+  "len": 160,
+  "first": "图像传感器单个像素的物理尺寸指标。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-pmt",
+  "len": 163,
+  "first": "把弱光转换并倍增为电信号的真空光电器件。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-pmt-application",
+  "len": 160,
+  "first": "用于弱光荧光与闪烁探测的典型场景。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-quantum-efficiency",
+  "len": 161,
+  "first": "探测器把入射光子转换为光电子的比例。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-swir",
+  "len": 170,
+  "first": "响应近短波红外波段的成像探测器。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-uncooled-ir",
+  "len": 164,
+  "first": "无需制冷、靠微测辐射热计工作的红外探测器。",
+  "oldTail": "把这些指标配好，探测器才能在合适的场景里发挥最大作用。"
+ },
+ {
+  "k": "optics-computer-generated-hologram",
+  "len": 146,
+  "first": "由计算机计算生成全息图的技术。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-confocal-app",
+  "len": 145,
+  "first": "用于生物医学切片成像的场景。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-dispersion-compensation",
+  "len": 148,
+  "first": "用于抵消线路色散的高色散系数光纤。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-dispersion-shifted",
+  "len": 154,
+  "first": "把零色散点移到低损耗窗口的优化光纤。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-holographic-anti-counterfeit",
+  "len": 154,
+  "first": "利用全息标签制作难以复制的防伪标识。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-holographic-display",
+  "len": 167,
+  "first": "再现三维影像、让人眼获得立体观感的显示技术，在展示与教育领域有独特价值。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-holographic-display-app",
+  "len": 149,
+  "first": "用于三维展示与教育的场景。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-holographic-grating",
+  "len": 151,
+  "first": "用全息干涉曝光制作的衍射光栅。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-holographic-interferometry",
+  "len": 148,
+  "first": "用全息再现波前干涉测量形变的技术。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-holographic-storage",
+  "len": 153,
+  "first": "以体全息方式高密度存储数据的技术。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-holographic-storage-app",
+  "len": 153,
+  "first": "用于大容量冷数据长期归档存储的实际应用场景。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-holography",
+  "len": 153,
+  "first": "记录并再现物光波前的三维成像技术。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-ir-imaging-app",
+  "len": 151,
+  "first": "用于测温巡检与夜视的实际场景。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-optical-storage",
+  "len": 147,
+  "first": "用激光读写介质上信息的存储方式。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-photorefractive",
+  "len": 156,
+  "first": "在光辐照下折射率可逆变化的全息记录材料。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-volume-hologram",
+  "len": 150,
+  "first": "记录介质纵深内折射率周期调制的全息图。",
+  "oldTail": "它保留了普通照片丢掉的相位，因此多了一个维度的信息。"
+ },
+ {
+  "k": "optics-ccd-sensor",
+  "len": 184,
+  "first": "用电荷耦合方式逐行转移读出光信号的图像传感器。",
+  "oldTail": "它的价值在于把光学的优势带进了传统电测手段难以立足的场合。"
+ },
+ {
+  "k": "optics-cmos-sensor",
+  "len": 169,
+  "first": "像元内集成放大、随机寻址读出的图像传感器。",
+  "oldTail": "它的价值在于把光学的优势带进了传统电测手段难以立足的场合。"
+ },
+ {
+  "k": "optics-distributed-sensing",
+  "len": 166,
+  "first": "沿整根光纤连续测量物理量分布的技术。",
+  "oldTail": "它的价值在于把光学的优势带进了传统电测手段难以立足的场合。"
+ },
+ {
+  "k": "optics-fbg-sensor",
+  "len": 182,
+  "first": "利用光纤布拉格光栅反射波长偏移测应变温度。",
+  "oldTail": "它的价值在于把光学的优势带进了传统电测手段难以立足的场合。"
+ },
+ {
+  "k": "optics-eam",
+  "len": 151,
+  "first": "利用电吸收效应调制光强度的高速器件。",
+  "oldTail": "它让光的传输和处理变得更紧凑、更省电，也更便宜。"
+ },
+ {
+  "k": "optics-frequency-comb",
+  "len": 152,
+  "first": "等间隔频率谱线组成的精密频率标尺光源。",
+  "oldTail": "它让光的传输和处理变得更紧凑、更省电，也更便宜。"
+ },
+ {
+  "k": "optics-frequency-comb-app",
+  "len": 167,
+  "first": "用于光钟与精密测量的典型用途。",
+  "oldTail": "它让光的传输和处理变得更紧凑、更省电，也更便宜。"
+ },
+ {
+  "k": "optics-modulator-app",
+  "len": 148,
+  "first": "用于高速光通信编码的典型用途。",
+  "oldTail": "它让光的传输和处理变得更紧凑、更省电，也更便宜。"
+ },
+ {
+  "k": "optics-optical-modulator",
+  "len": 169,
+  "first": "通过电信号改变光相位或强度的器件。",
+  "oldTail": "它让光的传输和处理变得更紧凑、更省电，也更便宜。"
+ },
+ {
+  "k": "optics-optical-waveguide",
+  "len": 169,
+  "first": "约束并引导光沿特定路径传输的结构。",
+  "oldTail": "它让光的传输和处理变得更紧凑、更省电，也更便宜。"
+ },
+ {
+  "k": "optics-photonic-crystal",
+  "len": 171,
+  "first": "周期性介电结构调控光子传播的人工材料。",
+  "oldTail": "它让光的传输和处理变得更紧凑、更省电，也更便宜。"
+ },
+ {
+  "k": "optics-photonic-ic",
+  "len": 170,
+  "first": "在芯片上集成多种光子功能的集成光路。",
+  "oldTail": "它让光的传输和处理变得更紧凑、更省电，也更便宜。"
+ },
+ {
+  "k": "optics-planar-waveguide",
+  "len": 148,
+  "first": "在衬底平面上制作的薄膜光波导。",
+  "oldTail": "它让光的传输和处理变得更紧凑、更省电，也更便宜。"
+ },
+ {
+  "k": "optics-silicon-photonics",
+  "len": 152,
+  "first": "以硅为平台集成光波导与器件的光子芯片。",
+  "oldTail": "它让光的传输和处理变得更紧凑、更省电，也更便宜。"
+ },
+ {
+  "k": "optics-silicon-transceiver",
+  "len": 167,
+  "first": "集成光收发功能的硅基光子芯片。",
+  "oldTail": "它让光的传输和处理变得更紧凑、更省电，也更便宜。"
+ },
+ {
+  "k": "optics-absorption-spectra",
+  "len": 145,
+  "first": "测量物质对不同波长光吸收强弱的谱图。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-emission-spectroscopy",
+  "len": 138,
+  "first": "测量原子或分子发射谱线进行成分分析。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-ftir-spectrometer",
+  "len": 145,
+  "first": "通过干涉图傅里叶变换获取光谱的仪器。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-grating-spectrometer",
+  "len": 135,
+  "first": "以衍射光栅为色散元件的光谱仪。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-ir-spectrometer",
+  "len": 145,
+  "first": "测量红外吸收光谱分析物质结构的仪器。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-ir-spectrometer-app",
+  "len": 140,
+  "first": "用于有机物结构分析的场景。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-monochromator",
+  "len": 138,
+  "first": "从复色光中选出窄带单色光的分光仪器。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-raman-app",
+  "len": 135,
+  "first": "用于材料鉴定与药品检测的场景。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-raman-probe",
+  "len": 145,
+  "first": "耦合激发与收集拉曼散射光的探测探头。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-raman-spectrometer",
+  "len": 138,
+  "first": "测量拉曼散射获得分子振动信息的仪器。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-reference-light",
+  "len": 136,
+  "first": "作为颜色与光谱校准基准的标准灯。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-spectrometer",
+  "len": 143,
+  "first": "把复色光按波长分解并测量的仪器。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-spectrometer-app",
+  "len": 143,
+  "first": "用于成分检测与实验室分析的场景。",
+  "oldTail": "校准到位，仪器给出的数值才可信、可比。"
+ },
+ {
+  "k": "optics-achromatic-lens",
+  "len": 171,
+  "first": "组合正负透镜以校正色差的透镜组。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-area-scan-camera",
+  "len": 178,
+  "first": "整幅曝光成像的通用工业相机。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-aspheric-lens",
+  "len": 180,
+  "first": "表面非球面形状以改善像质的透镜。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-astronomical-telescope",
+  "len": 172,
+  "first": "用于天文观测的大口径聚光成像系统。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-camera-body",
+  "len": 180,
+  "first": "容纳传感器与操控成像的机身主体。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-camera-lens",
+  "len": 182,
+  "first": "把景物成像到图像传感器上的透镜组件。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-confocal-microscope",
+  "len": 175,
+  "first": "通过共焦针孔逐层扫描获得高分辨断层图像。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-endoscope-optics",
+  "len": 172,
+  "first": "用于腔内观察的微型照明与成像光路。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-filter-wheel",
+  "len": 178,
+  "first": "可切换多枚滤光片的转轮装置。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-fisheye-lens",
+  "len": 174,
+  "first": "视角极大、成像呈桶形畸变的超广角镜头。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-fluorescence-microscope",
+  "len": 184,
+  "first": "激发标本荧光以观察特异标记结构的显微镜。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-hspeed-camera",
+  "len": 172,
+  "first": "每秒数千帧以上记录快速过程的相机。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-hyperspectral",
+  "len": 175,
+  "first": "波段细分更多、连续光谱分辨率更高的成像。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-hyperspectral-app",
+  "len": 170,
+  "first": "用于农业遥感与矿产勘查的场景。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-hyperspectral-camera",
+  "len": 173,
+  "first": "同时采集空间图像与逐像素光谱的相机。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-industrial-lens",
+  "len": 179,
+  "first": "面向机器视觉检测的高像质镜头。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-infrared-camera",
+  "len": 183,
+  "first": "探测物体红外辐射形成热分布图像的设备。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-ir-thermometer",
+  "len": 173,
+  "first": "测量物体红外辐射换算表面温度的设备。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-lens-group",
+  "len": 172,
+  "first": "多片透镜组合以校正像差的光学部件。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-line-scan-camera",
+  "len": 171,
+  "first": "逐行扫描获取图像的高速工业相机。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-macro-lens",
+  "len": 174,
+  "first": "可在近距离拍摄微小物体高放大率的镜头。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-metallographic-microscope",
+  "len": 172,
+  "first": "观察金属材料显微组织的专用显微镜。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-microscope-eyepiece",
+  "len": 172,
+  "first": "把物镜中间像再次放大供观察的目镜。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-microscope-objective",
+  "len": 182,
+  "first": "决定显微镜分辨率与放大率的核心镜头。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-night-vision",
+  "len": 174,
+  "first": "像增强或红外探测实现弱光下观察的设备。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-optical-filter",
+  "len": 182,
+  "first": "选择性透过或阻挡特定波段的薄膜元件。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-optical-microscope",
+  "len": 183,
+  "first": "用透镜组把微小物体放大成像的光学仪器。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-prime-lens",
+  "len": 182,
+  "first": "焦距固定、结构简单成像质量高的镜头。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-projection-lens",
+  "len": 182,
+  "first": "把显示面板图像放大投射到幕布的镜头。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-spectral-calibration",
+  "len": 172,
+  "first": "用标准谱线标定波长坐标的校准过程。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-spectral-imaging",
+  "len": 183,
+  "first": "同时获取目标空间图像与光谱信息的成像。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-spectral-resolution",
+  "len": 177,
+  "first": "光谱仪分辨邻近谱线的能力。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-stereo-vision",
+  "len": 182,
+  "first": "用双路成像模拟双眼视差获取深度信息。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-stereo-vision-app",
+  "len": 180,
+  "first": "用于机器人导航与三维测量的场景。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-surgical-microscope",
+  "len": 183,
+  "first": "供外科操作高倍放大观察的手术用显微镜。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-telecentric-lens",
+  "len": 175,
+  "first": "主光线平行于光轴、测量无透视误差的镜头。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-telephoto-lens",
+  "len": 183,
+  "first": "焦距长、压缩空间感拍摄远处物体的镜头。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-telescope",
+  "len": 183,
+  "first": "收集远处天体光线并放大视角的光学仪器。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-uv-imaging",
+  "len": 181,
+  "first": "响应紫外波段用于缺陷与检测的成像。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-zoom-extender",
+  "len": 171,
+  "first": "串接在镜头前延长焦距的光学附件。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-zoom-lens",
+  "len": 173,
+  "first": "焦距可连续变化、取景范围可调的镜头。",
+  "oldTail": "选镜头和传感器，本质是在分辨率、视场和成本之间做整体权衡。"
+ },
+ {
+  "k": "optics-aberration",
+  "len": 168,
+  "first": "实际成像与理想高斯成像的偏差总称。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-aberration-correction",
+  "len": 170,
+  "first": "通过镜片组合与面型设计消除像差的过程。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-antireflection-coating",
+  "len": 169,
+  "first": "在镜片表面镀多层膜以降低反射的工艺。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-astigmatism",
+  "len": 155,
+  "first": "子午与弧矢方向焦点不重合的像差。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-chromatic-aberration",
+  "len": 167,
+  "first": "不同波长焦距不同导致的色边像差。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-coma",
+  "len": 167,
+  "first": "轴外物点成像呈彗星状拖尾的像差。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-design-software",
+  "len": 157,
+  "first": "辅助自动优化像差与布局的计算机工具。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-diffractive-optics",
+  "len": 158,
+  "first": "利用衍射效应实现波前调控的微结构元件。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-distortion",
+  "len": 157,
+  "first": "像的放大率随视场变化导致的形状失真。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-field-curvature",
+  "len": 166,
+  "first": "最佳像面呈曲面而非平面的像差。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-field-stop",
+  "len": 153,
+  "first": "限制成像视场大小的孔径光阑。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-mtf",
+  "len": 157,
+  "first": "光学传递函数的幅值部分，评价清晰度。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-optical-glass",
+  "len": 157,
+  "first": "具有特定折射率与色散指标的透镜材料。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-optical-isolation",
+  "len": 157,
+  "first": "隔除机械振动以保证精密光学成像稳定。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-otf",
+  "len": 170,
+  "first": "描述光学系统对空间频率传递能力的函数。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-pupil",
+  "len": 170,
+  "first": "限制进入与离开光学系统光束口径的光阑。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-ray-tracing",
+  "len": 171,
+  "first": "计算光线在光学系统中传播路径的设计方法。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-spherical-aberration",
+  "len": 155,
+  "first": "近轴与边缘光线焦点不一致的像差。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-vignetting",
+  "len": 170,
+  "first": "轴外视场光束被拦截导致边缘变暗的现象。",
+  "oldTail": "这些概念串起来，就是一套镜头从设计到装调的完整思路。"
+ },
+ {
+  "k": "optics-awg",
+  "len": 176,
+  "first": "实现波分复用合波分波的平面光波导器件。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-bend-insensitive-fiber",
+  "len": 173,
+  "first": "弯曲损耗小、适合高密度布线的光纤。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-cm-module",
+  "len": 176,
+  "first": "集成色散补偿光纤的模块，抵消线路色散。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-coherent-comm",
+  "len": 174,
+  "first": "利用相位与偏振编码的高速光通信方式。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-coherent-detection",
+  "len": 174,
+  "first": "提取光信号相位信息的接收探测方式。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-digital-coherent",
+  "len": 182,
+  "first": "用数字信号处理恢复相位偏振的接收技术。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-dwdm",
+  "len": 183,
+  "first": "波长间隔更密、通道数更多的波分复用方式。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-edfa",
+  "len": 177,
+  "first": "利用铒离子在通信波段放大光信号的放大器。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-edfa-app",
+  "len": 169,
+  "first": "用于长距通信中继的场景。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-bandwidth",
+  "len": 171,
+  "first": "光纤可传输信号的频率范围能力。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-connector",
+  "len": 172,
+  "first": "实现光纤活动对接的可插拔器件。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-current",
+  "len": 174,
+  "first": "利用磁光效应测量电流的光学传感器。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-current-app",
+  "len": 177,
+  "first": "用于电网高压电流测量的场景。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-dispersion",
+  "len": 184,
+  "first": "不同波长或模式传速差异导致脉冲展宽的现象。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-fusion-splicer",
+  "len": 173,
+  "first": "自动对准并放电熔接光纤的专用设备。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-gyro",
+  "len": 177,
+  "first": "利用萨格纳克效应测量转动角速度的惯性器件。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-gyro-app",
+  "len": 170,
+  "first": "用于导航与姿态控制的场景。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-loss",
+  "len": 174,
+  "first": "光信号沿光纤传输时功率衰减的特性。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-preform",
+  "len": 173,
+  "first": "拉制光纤用的高纯度石英玻璃棒母料。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-sensor",
+  "len": 182,
+  "first": "以光纤为传感介质感知外界物理量的器件。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-sensor-app",
+  "len": 168,
+  "first": "用于桥梁电力监测的场景。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-splicing",
+  "len": 181,
+  "first": "用电弧把两根光纤永久接在一起的工艺。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-strain-sensor",
+  "len": 173,
+  "first": "以光纤测量结构应变分布的传感方式。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-temp-sensor",
+  "len": 178,
+  "first": "以光纤测量温度分布的传感方式。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-fiber-trace-tool",
+  "len": 176,
+  "first": "发射可见红光以快速定位断点与损耗的工具。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-ftth",
+  "len": 175,
+  "first": "把光纤直接铺到用户端的接入网络架构。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-multimode-fiber",
+  "len": 182,
+  "first": "可传输多个模式、芯径较粗的短距离光纤。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-optical-amplifier",
+  "len": 175,
+  "first": "直接对光信号放大而不转成电信号的器件。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-optical-circulator",
+  "len": 173,
+  "first": "按端口顺序环行传输光的非互易器件。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-optical-isolator",
+  "len": 182,
+  "first": "只允许光单向通过、阻挡反向反射的器件。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-optical-module",
+  "len": 179,
+  "first": "集成收发功能的可插拔光通信组件。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-optical-patchcord",
+  "len": 176,
+  "first": "带连接器的短段光纤，用于设备间光路连接。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-optical-patchpanel",
+  "len": 180,
+  "first": "集中端接与调度光纤链路的机柜装置。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-optical-receiver",
+  "len": 173,
+  "first": "把接收光信号转换回电信号的模块。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-optical-splitter",
+  "len": 173,
+  "first": "把一路光按比例分到多路的无源器件。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-optical-switch",
+  "len": 179,
+  "first": "在光路间切换通道连接的开关器件。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-optical-transmitter",
+  "len": 173,
+  "first": "把电信号调制到光载波上发射的模块。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-otdr",
+  "len": 175,
+  "first": "沿光纤测量损耗分布与断点位置的仪表。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-otdr-app",
+  "len": 168,
+  "first": "用于线路施工维护的场景。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-raman-amp",
+  "len": 183,
+  "first": "利用受激拉曼效应实现分布式光放大的器件。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-silicon-module",
+  "len": 180,
+  "first": "采用硅光集成技术的高速收发光模块。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-singlemode-fiber",
+  "len": 177,
+  "first": "只传输基模、芯径细、带宽大的通信用光纤。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-space-division-mux",
+  "len": 177,
+  "first": "按空间纤芯或模道区分传输通道的复用技术。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-submarine-cable",
+  "len": 180,
+  "first": "敷设海底承载跨洋光通信的铠装光缆。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-wdm",
+  "len": 179,
+  "first": "在一根光纤中同时传输多个波长信号的复用技术。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-wdm-filter",
+  "len": 173,
+  "first": "把多个波长合波或分波的无源器件。",
+  "oldTail": "整条链路的每一段损耗，最终都决定了系统能跑多快、多远。"
+ },
+ {
+  "k": "optics-backlight",
+  "len": 151,
+  "first": "为液晶面板提供面光源的背照组件。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-backlight-dimming",
+  "len": 151,
+  "first": "分区调节背光以提升对比度的技术。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-color-gamut",
+  "len": 153,
+  "first": "显示设备可再现色彩范围的度量。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-display-contrast",
+  "len": 151,
+  "first": "最亮与最暗画面的亮度比值。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-display-luminance",
+  "len": 150,
+  "first": "显示屏单位面积发光强度的指标。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-e-paper",
+  "len": 154,
+  "first": "双稳态微囊电泳反射式显示，低功耗护眼。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-epaper-app",
+  "len": 151,
+  "first": "用于电子书与电子标签的实际场景。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-flexible-app",
+  "len": 160,
+  "first": "用于折叠屏手机与可穿戴设备的柔性基底显示实际场景。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-flexible-display",
+  "len": 150,
+  "first": "可弯曲折叠的柔性基底显示技术。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-hud",
+  "len": 157,
+  "first": "把行车信息投射到前挡风玻璃的显示系统。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-lcd",
+  "len": 157,
+  "first": "靠液晶分子偏转调制背光成像的平板显示。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-lcd-app",
+  "len": 149,
+  "first": "用于监视器与屏显的实际场景。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-microdisplay",
+  "len": 158,
+  "first": "小尺寸高分辨率显示面板，用于头戴与投影。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-oled",
+  "len": 152,
+  "first": "有机电致发光材料自发光的平板显示。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-oled-app",
+  "len": 151,
+  "first": "用于手机与大屏的实际场景。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-polarizer-film",
+  "len": 152,
+  "first": "控制偏振方向的显示薄膜元件。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-qd-app",
+  "len": 151,
+  "first": "用于高色域电视的实际场景。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-qd-display",
+  "len": 156,
+  "first": "用量子点发光提高色域与色纯度的显示。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-refresh-rate",
+  "len": 152,
+  "first": "屏幕每秒刷新画面的次数指标。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ },
+ {
+  "k": "optics-response-time",
+  "len": 149,
+  "first": "像素状态切换所需的时间指标。",
+  "oldTail": "最终选择哪种屏，取决于亮度、功耗、成本和观看距离的组合。"
+ }
+]

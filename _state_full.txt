@@ -1,0 +1,140 @@
+﻿✓ aerospace.js     节点  110  边  140  {"part":55,"prereq":6,"related":21,"apply":44,"contrast":14}
+✓ agriculture.js   节点  110  边  132  {"prereq":8,"contrast":26,"related":13,"part":37,"apply":48}
+✓ ai.js            节点  246  边  383  {"prereq":153,"part":29,"apply":80,"contrast":31,"related":90}
+✓ anthropology.js  节点  243  边  367  {"part":189,"related":82,"prereq":41,"contrast":27,"apply":28}
+✓ art.js           节点  110  边  139  {"part":52,"related":36,"contrast":15,"prereq":4,"apply":32}
+✓ astronomy.js     节点  251  边  327  {"prereq":102,"part":63,"apply":84,"contrast":23,"related":55}
+✓ biology.js       节点  240  边  345  {"prereq":88,"related":26,"part":162,"contrast":41,"apply":28}
+✓ biomedical.js    节点  248  边  304  {"part":78,"related":76,"prereq":56,"apply":72,"contrast":22}
+✓ blockchain.js    节点  247  边  301  {"part":85,"prereq":23,"related":101,"apply":66,"contrast":26}
+✓ building.js      节点  110  边  189  {"part":48,"prereq":56,"apply":40,"contrast":18,"related":27}
+✓ carbon.js        节点  110  边  190  {"part":34,"prereq":59,"apply":30,"contrast":17,"related":50}
+✓ chemeng.js       节点  110  边  130  {"part":40,"related":31,"contrast":10,"prereq":7,"apply":42}
+✓ chemistry.js     节点  239  边  331  {"prereq":108,"part":81,"apply":55,"contrast":31,"related":56}
+✓ chist.js         节点  253  边  326  {"part":114,"prereq":79,"apply":29,"contrast":23,"related":81}
+✓ circuit.js       节点  251  边  367  {"prereq":149,"related":120,"part":38,"contrast":30,"apply":30}
+✓ civil.js         节点  110  边  135  {"part":45,"related":20,"apply":44,"prereq":9,"contrast":17}
+✓ code.js          节点  252  边  364  {"prereq":121,"part":26,"apply":50,"contrast":26,"related":141}
+✓ comm.js          节点  215  边  316  {"part":40,"prereq":128,"related":62,"contrast":27,"apply":59}
+✓ control.js       节点  266  边  319  {"prereq":116,"part":36,"apply":30,"contrast":35,"related":102}
+✓ cosmos.js        节点  209  边  216  {"prereq":28,"part":67,"contrast":20,"related":65,"apply":36}
+    ! 定义过短（19 字）：cosmos-drag-era 拖曳时期
+    ! 定义过短（20 字）：cosmos-baryon-photon-fluid 重子光子流体
+    ! 定义过短（21 字）：cosmos-sachs-wolfe 萨克斯-沃尔夫效应
+    ! 定义过短（21 字）：cosmos-cmb-polarization 背景极化
+    ! 定义过短（20 字）：cosmos-indirect-detection 暗物质间接探测
+    ! 定义过短（20 字）：cosmos-lambda-problem 宇宙学常数问题
+    ! 定义过短（20 字）：cosmos-coincidence 宇宙巧合问题
+    ! 定义过短（21 字）：cosmos-neutrino-mass 中微子质量上限
+    ! 定义过短（17 字）：cosmos-void 巨洞
+    ! 定义过短（19 字）：cosmos-galaxy-group 星系群
+    ! 定义过短（18 字）：cosmos-supercluster 超星系团
+    ! 定义过短（19 字）：cosmos-galaxy-wall 星系长城
+    ! 定义过短（19 字）：cosmos-subhalo 子暗晕
+    ! 定义过短（20 字）：cosmos-halo-mass-func 暗晕质量函数
+    ! 定义过短（19 字）：cosmos-galaxy-bias 星系偏倚
+    ! 定义过短（21 字）：cosmos-microlensing 微引力透镜
+    ! 定义过短（21 字）：cosmos-initial-field 初始密度场
+    ! 定义过短（18 字）：cosmos-virialized-halo 位力化暗晕
+    ! 定义过短（19 字）：cosmos-semi-analytic 半解析模型
+    ! 定义过短（21 字）：cosmos-gas-inflow 气体吸积
+    ! 定义过短（19 字）：cosmos-void-galaxy 空洞星系
+    ! 定义过短（18 字）：cosmos-perturbation-growth 扰动增长方程
+    ! 定义过短（20 字）：cosmos-gravitational-wave 引力波
+    ! 定义过短（21 字）：cosmos-cyclic 循环宇宙
+    ! 定义过短（20 字）：cosmos-multiverse 多重宇宙
+    ! 定义过短（17 字）：cosmos-expansion-turn 减速转加速
+    ! 定义过短（20 字）：cosmos-standard-candle 标准烛光
+    ! 定义过短（20 字）：cosmos-standard-ruler 标准尺
+    ! 定义过短（21 字）：cosmos-ly-break 莱曼断裂星系
+    ! 定义过短（19 字）：cosmos-igM 星系际介质
+    ! 定义过短（19 字）：cosmos-observational-cosmology 观测宇宙学
+    ! 定义过短（21 字）：cosmos-primordial-magnetic-field 原初磁场
+    ! 重复边：cosmos-strong-lensing ↔ cosmos-lens-time-delay
+    ! 重复边：cosmos-icm ↔ cosmos-sz-effect
+    ! 重复边：cosmos-standard-candle ↔ cosmos-snia-evidence
+✓ database.js      节点  110  边  130  {"prereq":13,"part":29,"related":25,"apply":42,"contrast":21}
+✓ datacenter.js    节点  110  边  190  {"prereq":69,"part":55,"related":9,"apply":39,"contrast":18}
+✓ earth.js         节点  232  边  330  {"prereq":88,"part":94,"apply":39,"contrast":35,"related":74}
+✓ ecology.js       节点  123  边  152  {"prereq":8,"related":57,"part":37,"apply":33,"contrast":17}
+✓ economics.js     节点  238  边  335  {"prereq":139,"part":57,"apply":40,"contrast":39,"related":60}
+✓ education.js     节点  110  边  144  {"part":68,"related":34,"contrast":15,"prereq":8,"apply":19}
+✓ electronics.js   节点  216  边  331  {"prereq":89,"related":133,"apply":53,"contrast":27,"part":29}
+✓ embed.js         节点  260  边  350  {"part":54,"apply":43,"contrast":52,"related":83,"prereq":118}
+✓ envsci.js        节点  110  边  130  {"related":28,"prereq":14,"part":26,"contrast":15,"apply":47}
+✓ ev.js            节点  110  边  161  {"part":28,"prereq":46,"apply":43,"related":22,"contrast":22}
+✓ finance.js       节点  240  边  300  {"prereq":34,"related":96,"part":83,"contrast":28,"apply":59}
+✓ food.js          节点  110  边  132  {"prereq":5,"related":22,"apply":65,"contrast":17,"part":23}
+✓ game.js          节点  230  边  312  {"part":119,"related":58,"prereq":21,"apply":92,"contrast":22}
+✓ geology.js       节点  204  边  306  {"prereq":21,"related":134,"contrast":36,"apply":65,"part":50}
+✓ graphics.js      节点  250  边  302  {"part":97,"prereq":38,"related":80,"apply":58,"contrast":29}
+✓ grid.js          节点  210  边  267  {"prereq":56,"part":103,"apply":51,"contrast":19,"related":38}
+✓ hv.js            节点  225  边  309  {"prereq":32,"part":126,"related":90,"contrast":25,"apply":36}
+✓ industrial.js    节点  110  边  174  {"part":24,"contrast":18,"apply":36,"related":51,"prereq":45}
+✓ journalism.js    节点  174  边  313  {"part":48,"related":128,"prereq":43,"apply":66,"contrast":28}
+    ! prereq 存在 3 处三节点环（应无环）
+✓ law.js           节点  248  边  275  {"part":116,"related":71,"contrast":24,"prereq":39,"apply":25}
+✓ linguistics.js   节点  110  边  131  {"prereq":11,"part":62,"contrast":12,"related":22,"apply":24}
+✓ literature.js    节点  110  边  130  {"part":48,"related":30,"contrast":14,"apply":33,"prereq":5}
+✓ management.js    节点  110  边  160  {"part":71,"related":32,"apply":24,"contrast":17,"prereq":16}
+✓ market.js        节点  256  边  344  {"part":55,"apply":78,"contrast":35,"prereq":98,"related":78}
+✓ material.js      节点  110  边  197  {"prereq":61,"part":30,"apply":37,"contrast":25,"related":44}
+✓ math.js          节点  235  边  297  {"prereq":116,"related":87,"part":50,"apply":21,"contrast":23}
+✓ mechanical.js    节点  110  边  147  {"part":53,"prereq":14,"related":25,"apply":33,"contrast":22}
+✓ medicine.js      节点  260  边  350  {"part":63,"related":57,"apply":67,"prereq":137,"contrast":26}
+✓ meteorology.js   节点  191  边  265  {"related":88,"prereq":32,"apply":53,"part":73,"contrast":19}
+✓ motor.js         节点  258  边  349  {"part":25,"related":118,"apply":50,"prereq":129,"contrast":27}
+✓ music.js         节点  243  边  233  {"part":103,"prereq":23,"related":65,"apply":25,"contrast":17}
+✓ nuclear.js       节点  240  边  294  {"part":113,"contrast":25,"related":47,"prereq":28,"apply":81}
+✓ ocean.js         节点  110  边  130  {"part":51,"prereq":7,"apply":38,"contrast":11,"related":23}
+✓ optics.js        节点  246  边  304  {"part":83,"related":112,"prereq":28,"apply":56,"contrast":25}
+✓ petroleum.js     节点  234  边  305  {"prereq":17,"part":98,"related":45,"contrast":32,"apply":113}
+✓ philosophy.js    节点  250  边  349  {"part":78,"prereq":112,"apply":44,"contrast":51,"related":64}
+✓ physics.js       节点  240  边  340  {"part":96,"prereq":139,"apply":44,"related":34,"contrast":27}
+✓ planetary.js     节点  253  边  305  {"related":105,"prereq":48,"part":48,"apply":77,"contrast":27}
+✓ power.js         节点  254  边  384  {"prereq":109,"part":64,"related":108,"contrast":32,"apply":71}
+✓ practice.js      节点  110  边  174  {"prereq":46,"part":39,"apply":23,"contrast":16,"related":50}
+✓ protect.js       节点  110  边  182  {"prereq":60,"part":20,"apply":27,"contrast":18,"related":57}
+✓ psychology.js    节点  110  边  131  {"part":48,"prereq":15,"related":35,"apply":23,"contrast":10}
+✓ quantum.js       节点  238  边  288  {"part":121,"prereq":34,"apply":87,"contrast":23,"related":23}
+✓ rail.js          节点  110  边  178  {"part":51,"prereq":50,"apply":46,"contrast":21,"related":10}
+✗ renewable.js     节点  188  边  186  {"prereq":16,"part":69,"contrast":17,"related":54,"apply":30}
+    ! 定义过短（17 字）：renewable-pv-thin-film 薄膜电池
+    ! 定义过短（13 字）：renewable-pv-perovskite 钙钛矿电池
+    ! 定义过短（14 字）：renewable-pv-bypass-diode 旁路二极管
+    ! 定义过短（13 字）：renewable-pv-combiner-box 汇流箱
+    ! 定义过短（19 字）：renewable-pv-ac-cable 交流电缆
+    ! 定义过短（15 字）：renewable-pv-mounting 支架结构
+    ! 定义过短（11 字）：renewable-pv-hot-spot 热斑
+    ! 定义过短（16 字）：renewable-pv-iv-curve I-V曲线
+    ! 定义过短（21 字）：renewable-wind-blade-airfoil 叶片翼型
+    ! 定义过短（10 字）：renewable-wind-power-coefficient 风能利用系数
+    ! 定义过短（14 字）：renewable-wind-gearbox 齿轮箱
+    ! 定义过短（12 字）：renewable-wind-converter 风机变流器
+    ! 定义过短（19 字）：renewable-wind-hydraulic 液压系统
+    ! 定义过短（21 字）：renewable-wind-auxiliary 辅助系统
+    ! 定义过短（13 字）：renewable-wind-farm-layout 风电场布置
+    ! 定义过短（19 字）：renewable-wind-cut-in 切入风速
+    ! 定义过短（19 字）：renewable-wind-rated-wind 额定风速
+    ! 定义过短（20 字）：renewable-wind-cut-out 切出风速
+    ! 定义过短（14 字）：renewable-wind-power-curve 功率曲线
+    ! 定义过短（11 字）：renewable-wind-offshore 海上风电场
+    ! 定义过短（15 字）：renewable-wind-resource 风能资源
+    ✗ 36 个孤立节点：renewable-pv-bifacial-cell, renewable-pv-ac-cable, renewable-pv-tracker-single, renewable-pv-tracker-double, renewable-pv-pid-effect, renewable-pv-degradation-rate
+✓ robotics.js      节点  242  边  314  {"prereq":40,"part":140,"related":27,"contrast":41,"apply":66}
+✓ security.js      节点  110  边  131  {"contrast":27,"part":24,"prereq":6,"apply":43,"related":31}
+✓ signal.js        节点  236  边  387  {"prereq":155,"related":116,"part":38,"apply":50,"contrast":28}
+✓ sociology.js     节点  208  边  230  {"part":55,"contrast":37,"related":70,"apply":41,"prereq":27}
+✓ software.js      节点  110  边  131  {"prereq":27,"related":33,"part":33,"contrast":14,"apply":24}
+✓ spacecraft.js    节点  237  边  293  {"part":132,"prereq":38,"related":37,"apply":64,"contrast":22}
+✓ standard.js      节点  110  边  168  {"part":22,"apply":21,"contrast":15,"prereq":58,"related":52}
+✓ statistics.js    节点  110  边  130  {"part":28,"contrast":16,"related":39,"apply":28,"prereq":19}
+✓ storage.js       节点  201  边  256  {"part":113,"related":52,"contrast":26,"prereq":11,"apply":54}
+✓ tcm.js           节点  270  边  374  {"part":229,"contrast":31,"prereq":29,"related":40,"apply":45}
+✓ thermal.js       节点  234  边  322  {"prereq":38,"apply":80,"part":96,"related":85,"contrast":23}
+✓ thist.js         节点  249  边  337  {"related":85,"prereq":139,"apply":38,"part":50,"contrast":25}
+✓ whist.js         节点  248  边  319  {"prereq":101,"part":95,"apply":32,"contrast":23,"related":68}
+✓ wireless.js      节点  110  边  189  {"prereq":68,"part":31,"apply":36,"contrast":21,"related":33}
+
+合计：79 个领域，14911 个节点，19998 条边
+存在 1 个错误

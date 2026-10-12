@@ -43,7 +43,9 @@ const TECH_ONLY_YEAR = new Set([
   "circuit", "thermal", "power", "renewable", "grid", "storage", "protect", "embed", "hv",
   "control", "electronics", "code", "motor", "signal", "ai", "comm", "math", "industrial",
   "standard", "practice", "ev", "building", "datacenter", "rail", "carbon", "market",
-  "material", "wireless"
+  "material", "wireless", "cosmos", "stellar", "planetary", "spacecraft", "robotics",
+  "quantum", "nuclear", "petroleum", "biomedical", "optics", "graphics", "blockchain",
+  "meteorology"
 ]);
 const FAKE = [
   [/GB\/T\s*\d+|DL\/T\s*\d+|JB\/T\s*\d+/, "标准编号"],

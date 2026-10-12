@@ -83,7 +83,31 @@ window.KG_DOMAINS = [
   { id: "education",   name: "教育学",           color: "#06d6a0", intro: "教育原理、课程教学、心理、技术与评价。" },
   { id: "linguistics", name: "语言学",           color: "#ffb703", intro: "语音、句法、语义、语用与语言演化。" },
   { id: "literature",  name: "文学",             color: "#e63946", intro: "中外文学史、文学理论与文学批评。" },
-  { id: "art",         name: "艺术",             color: "#ff5d8f", intro: "美术、音乐、戏剧、设计艺术与美学理论。" }
+  { id: "art",         name: "艺术",             color: "#ff5d8f", intro: "美术、音乐、戏剧、设计艺术与美学理论。" },
+  { id: "cosmos",      name: "宇宙学与天体物理", color: "#5a189a", intro: "从大爆炸到暗能量，纵览宇宙整体演化。" },
+  { id: "stellar",     name: "恒星与星系",       color: "#ff9e00", intro: "从氢聚变到并合黑洞，解读恒星与星系生死。" },
+  { id: "planetary",   name: "行星科学与深空探测", color: "#f77f00", intro: "行星科学与深空探测——从行星地貌、大气到系外宜居" },
+  { id: "spacecraft",  name: "航天器与空间技术", color: "#1d3557", intro: "航天器与空间技术——运载、平台、再入返回与在轨服务" },
+  { id: "robotics",    name: "机器人学",         color: "#219ebc", intro: "研究机构、感知、规划与控制的综合工程学科" },
+  { id: "quantum",     name: "量子信息与计算",   color: "#3a0ca3", intro: "以量子态为载体的信息处理与通信学科" },
+  { id: "nuclear",     name: "核工程与核安全",   color: "#fb5607", intro: "裂变聚变受控释能、堆芯设计与纵深防御核安全" },
+  { id: "petroleum",   name: "石油与天然气工程", color: "#7f5539", intro: "油气藏勘探开发、采输与非常规油气工程" },
+  { id: "biomedical",  name: "生物医学工程",     color: "#7400b8", intro: "医用成像、植入器械与生命支持设备的工程化。" },
+  { id: "optics",      name: "光学与光子学",     color: "#4361ee", intro: "激光器、光纤通信与光电成像探测的工程应用。" },
+  { id: "graphics",    name: "计算机图形学",     color: "#7209b7", intro: "三维场景到屏幕像素的变换与渲染技术体系" },
+  { id: "blockchain",  name: "区块链与分布式系统", color: "#560bad", intro: "去中心化账本与分布式共识的密码学基础设施" },
+  { id: "geology",     name: "地质学",           color: "#9c6644", intro: "研究矿物岩石与地球表层地质作用的学科。" },
+  { id: "meteorology", name: "大气科学",         color: "#48cae4", intro: "研究大气运动与天气气候现象的学科。" },
+  { id: "ecology",     name: "生态学",           color: "#588157", intro: "研究生物与其周围环境相互关系的学科。" },
+  { id: "neuroscience",name: "神经科学",         color: "#c77dff", intro: "研究神经系统结构、信号传导与可塑性的生命科学。" },
+  { id: "pharmacy",    name: "药学",             color: "#80b918", intro: "研究药物发现、作用机制与合理用药的应用科学。" },
+  { id: "finance",     name: "金融学",           color: "#d4a373", intro: "研究货币、信用、资本市场与风险配置的学科" },
+  { id: "archaeology", name: "考古学",           color: "#bc6c25", intro: "通过物质遗存复原古代人类历史与文化的学科" },
+  { id: "anthropology",name: "人类学",           color: "#b08968", intro: "研究人类生物性与文化多样性的综合学科。" },
+  { id: "journalism",  name: "新闻传播学",       color: "#457b9d", intro: "研究新闻生产、传播过程与社会影响的人文社科。" },
+  { id: "music",       name: "音乐",             color: "#e5989b", intro: "研究音乐的理论、创作、表演与社会文化的学科。" },
+  { id: "tcm",         name: "中医学",           color: "#52b788", intro: "阴阳五行藏象经络，辨证论治理法方药" },
+  { id: "game",        name: "游戏设计",         color: "#d00000", intro: "机制类型关卡数值叙事，玩家体验与运营" }
 ];
 
 /* 五种关系类型，渲染层据此上色和换线型。

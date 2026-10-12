@@ -1,0 +1,191 @@
+﻿
+===== sociology =====
+-- 含共享模板句的条目 --
+sociology-social-order	[1] 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-gender-inequality	[1] 性别分工通过社会化与制度安排再生产不平等，同工同酬是立法目标
+sociology-population	[1] 性别分工通过社会化与制度安排再生产不平等，同工同酬是立法目标
+sociology-validity-soc	[1] 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-ethics-soc	[1] 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-structural-functional	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-social-integration	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-division-labor	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-mechanical-solidarity	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-organic-solidarity	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-ideal-type	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-verstehen	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-double-contingency	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-quantitative	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-qualitative	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-cross-sectional	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-sampling	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-reliability	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-validity	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-ethics	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-socialization-agent	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会化贯穿人的一生，初级群体与次级群体在不同阶段承担不同功能
+sociology-primary-socialization	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会化贯穿人的一生，初级群体与次级群体在不同阶段承担不同功能
+sociology-secondary-socialization	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会化贯穿人的一生，初级群体与次级群体在不同阶段承担不同功能
+sociology-anticipatory-socialization	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会化贯穿人的一生，初级群体与次级群体在不同阶段承担不同功能
+sociology-role-taking	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 角色集与地位丛的矛盾是现代个体压力的来源，角色距离反映个体与
+sociology-generalized-other	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-self-concept	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-looking-glass-self	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-role-conflict	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-role-strain	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 角色集与地位丛的矛盾是现代个体压力的来源，角色距离反映个体与
+sociology-status-set	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-ascribed-status	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 角色集与地位丛的矛盾是现代个体压力的来源，角色距离反映个体与
+sociology-achieved-status	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 角色集与地位丛的矛盾是现代个体压力的来源，角色距离反映个体与
+sociology-secondary-group	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-in-group	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-out-group	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-reference-group	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-formal-organization	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-iron-cage	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会学研究需将微观互动与宏观结构联系起来，避免单因解释
+sociology-organizational-culture	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-groupthink	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-social-stratification	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-social-class	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 角色集与地位丛的矛盾是现代个体压力的来源，角色距离反映个体与
+sociology-intragenerational	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会分层通过代际传递再生产不平等，教育与市场能力是流动的主要
+sociology-closed-system	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 角色集与地位丛的矛盾是现代个体压力的来源，角色距离反映个体与
+sociology-open-system	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 角色集与地位丛的矛盾是现代个体压力的来源，角色距离反映个体与
+sociology-prestige	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 角色集与地位丛的矛盾是现代个体压力的来源，角色距离反映个体与
+sociology-power	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会分层通过代际传递再生产不平等，教育与市场能力是流动的主要
+sociology-authority	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-traditional-authority	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-charismatic-authority	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-rational-legal	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-absolute-poverty	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-relative-poverty	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-underclass	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-wealth-inequality	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-informal-sanction	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-formal-sanction	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-labeling-theory	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-strain-theory	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-differential-association	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-white-collar-crime	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-stigma	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-nuclear-family	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 家庭形态变迁与工业化城市化相关，情感功能取代经济功能成为核心
+sociology-extended-family	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-functions-of-family	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-patriarchy	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 性别分工通过社会化与制度安排再生产不平等，同工同酬是立法目标
+sociology-gender-role	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 角色集与地位丛的矛盾是现代个体压力的来源，角色距离反映个体与
+sociology-gender-socialization	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会化贯穿人的一生，初级群体与次级群体在不同阶段承担不同功能
+sociology-sexism	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 性别分工通过社会化与制度安排再生产不平等，同工同酬是立法目标
+sociology-second-shift	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 性别分工通过社会化与制度安排再生产不平等，同工同酬是立法目标
+sociology-divorce-rate	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 家庭形态变迁与工业化城市化相关，情感功能取代经济功能成为核心
+sociology-single-parent	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 家庭形态变迁与工业化城市化相关，情感功能取代经济功能成为核心
+sociology-education-function	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-hidden-curriculum	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会分层通过代际传递再生产不平等，教育与市场能力是流动的主要
+sociology-credentialism	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-religion-function	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-sacred-profane	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-church-sect	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-secularization	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-cult	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-gemeinschaft	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-gesellschaft	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-ghetto	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-suburb	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会分层通过代际传递再生产不平等，教育与市场能力是流动的主要
+sociology-labor-market	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-division-labor-gender	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 家庭形态变迁与工业化城市化相关，情感功能取代经济功能成为核心
+sociology-alienation	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-prestige-occupation	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-social-change	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-post-industrial	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会分层通过代际传递再生产不平等，教育与市场能力是流动的主要
+sociology-revolution	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-collective-behavior	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-fashions	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会分层通过代际传递再生产不平等，教育与市场能力是流动的主要
+sociology-crowd	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-race	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-minority-group	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-assimilation	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-pluralism	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 正式组织以效率为目标，但非正式群体对成员满意度与生产率有重要
+sociology-racism	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-prejudice	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 社会化贯穿人的一生，初级群体与次级群体在不同阶段承担不同功能
+sociology-death-rate	[1] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮
+sociology-aging	[2] 在社会学研究中，这一概念与其他理论视角和经验发现相互关联，帮 | 家庭形态变迁与工业化城市化相关，情感功能取代经济功能成为核心
+-- 句内复读条目 --
+sociology-sociology	「个人放进群体、制度和历史 / 制度和历史脉络中去理解。」
+sociology-social-value	「常是社会矛盾和文化争议的 / 常是社会矛盾和文化争议的深层根源」
+sociology-primary-group	「。它对人格形成和早期社会 / 和早期社会化有深远影响。」
+sociology-social-group	「从众，也可能激发越轨和创」
+sociology-modernization	「。它包括工业化、城市化、 / 、城市化、理性化和科层化」
+sociology-deviance	「它的界定因文化和时代而不 / 和时代而不同，具有相对性」
+sociology-city-illness	「在于人口与资源、基础设施 / 在于人口与资源、基础设施之间的失」
+sociology-content-analysis	「内容转化为可分类、可统计 / 内容转化为可分类、可统计的数据。」
+sociology-ethics-soc	「情同意、匿名保密和不造成 / 情同意、匿名保密和不造成伤害。社」
+sociology-weber	「现代社会既高效又令人束缚 / 现代社会既高效又令人束缚的双重性」
+sociology-public-policy	「基于扎实的社会研究和实证」
+sociology-urban-sociology	「影响社会关系和不平等的分 / 影响社会关系和不平等的分布。它关」
+sociology-industrial-sociology	「控制、认同和反抗如何交织 / 控制、认同和反抗如何交织。它关注」
+
+===== medicine =====
+-- 含共享模板句的条目 --
+medicine-bile	[1] 消化治疗需关注黏膜保护与屏障功能，避免刺激性饮食与药物相互作
+medicine-parasympathetic	[1] 神经科用药需监测血药浓度与中枢不良反应，定期评估神经功能缺损
+medicine-cerebral-infarction	[1] 神经科用药需监测血药浓度与中枢不良反应，定期评估神经功能缺损
+medicine-multiple-sclerosis	[1] 神经科用药需监测血药浓度与中枢不良反应，定期评估神经功能缺损
+medicine-nephritis	[1] 免疫抑制治疗需平衡感染风险与自身免疫控制，定期监测血常规与肝
+medicine-nephrotic	[1] 抗菌药物使用应遵循药敏结果与分级管理原则，防止耐药菌产生与二
+medicine-hypothyroidism	[1] 神经科用药需监测血药浓度与中枢不良反应，定期评估神经功能缺损
+medicine-malnutrition	[1] 免疫抑制治疗需平衡感染风险与自身免疫控制，定期监测血常规与肝
+medicine-fracture	[1] 抗菌药物使用应遵循药敏结果与分级管理原则，防止耐药菌产生与二
+medicine-glaucoma	[1] 神经科用药需监测血药浓度与中枢不良反应，定期评估神经功能缺损
+medicine-otitis	[1] 抗菌药物使用应遵循药敏结果与分级管理原则，防止耐药菌产生与二
+medicine-palpation	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-bp-measure	[1] 治疗需改善心肌重构与预后，同时控制心率、血压与血脂等危险因素
+medicine-biochemistry	[1] 消化治疗需关注黏膜保护与屏障功能，避免刺激性饮食与药物相互作
+medicine-immunoassay	[1] 抗菌药物使用应遵循药敏结果与分级管理原则，防止耐药菌产生与二
+medicine-molecular-diagnosis	[1] 抗菌药物使用应遵循药敏结果与分级管理原则，防止耐药菌产生与二
+medicine-histopathology	[1] 抗肿瘤治疗需评估患者体能状态与脏器功能，平衡疗效与不良反应
+medicine-immunohistochemistry	[1] 抗肿瘤治疗需评估患者体能状态与脏器功能，平衡疗效与不良反应
+medicine-flow-cytometry	[1] 免疫抑制治疗需平衡感染风险与自身免疫控制，定期监测血常规与肝
+medicine-genetic-testing	[1] 抗肿瘤治疗需评估患者体能状态与脏器功能，平衡疗效与不良反应
+medicine-echocardiography	[1] 治疗需改善心肌重构与预后，同时控制心率、血压与血脂等危险因素
+medicine-holter	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-sensitivity	[1] 诊断方法需评估其灵敏度与特异度，金标准参照下减少假阳性与假阴
+medicine-specificity	[1] 诊断方法需评估其灵敏度与特异度，金标准参照下减少假阳性与假阴
+medicine-roc	[1] 诊断方法需评估其灵敏度与特异度，金标准参照下减少假阳性与假阴
+medicine-epidemiology-distribution	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-first-pass	[1] 消化治疗需关注黏膜保护与屏障功能，避免刺激性饮食与药物相互作
+medicine-bioavailability	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-receptor	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-ion-channel	[1] 治疗需改善心肌重构与预后，同时控制心率、血压与血脂等危险因素
+medicine-resistance	[1] 抗菌药物使用应遵循药敏结果与分级管理原则，防止耐药菌产生与二
+medicine-antifungal	[1] 抗菌药物使用应遵循药敏结果与分级管理原则，防止耐药菌产生与二
+medicine-antiparasitic	[1] 抗菌药物使用应遵循药敏结果与分级管理原则，防止耐药菌产生与二
+medicine-nsaid	[1] 治疗需改善心肌重构与预后，同时控制心率、血压与血脂等危险因素
+medicine-local-anesthetic	[1] 神经科用药需监测血药浓度与中枢不良反应，定期评估神经功能缺损
+medicine-antidepressant	[1] 神经科用药需监测血药浓度与中枢不良反应，定期评估神经功能缺损
+medicine-antipsychotic	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-antiepileptic	[1] 神经科用药需监测血药浓度与中枢不良反应，定期评估神经功能缺损
+medicine-cardiac-glycoside	[1] 治疗需改善心肌重构与预后，同时控制心率、血压与血脂等危险因素
+medicine-lipid-lowering	[1] 治疗需改善心肌重构与预后，同时控制心率、血压与血脂等危险因素
+medicine-thrombolytic	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-immunotherapy	[1] 抗肿瘤治疗需评估患者体能状态与脏器功能，平衡疗效与不良反应
+medicine-cell-therapy	[1] 免疫抑制治疗需平衡感染风险与自身免疫控制，定期监测血常规与肝
+medicine-gene-therapy	[1] 抗肿瘤治疗需评估患者体能状态与脏器功能，平衡疗效与不良反应
+medicine-organ-transplant	[1] 免疫抑制治疗需平衡感染风险与自身免疫控制，定期监测血常规与肝
+medicine-physical-therapy	[1] 神经科用药需监测血药浓度与中枢不良反应，定期评估神经功能缺损
+medicine-occupational-therapy	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-speech-therapy	[1] 神经科用药需监测血药浓度与中枢不良反应，定期评估神经功能缺损
+medicine-enteral-nutrition	[1] 消化治疗需关注黏膜保护与屏障功能，避免刺激性饮食与药物相互作
+medicine-parenteral-nutrition	[1] 抗菌药物使用应遵循药敏结果与分级管理原则，防止耐药菌产生与二
+medicine-transfusion-reaction	[1] 免疫抑制治疗需平衡感染风险与自身免疫控制，定期监测血常规与肝
+medicine-shock	[1] 抗菌药物使用应遵循药敏结果与分级管理原则，防止耐药菌产生与二
+medicine-evidence-based	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-clinical-guideline	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-doctor-patient-communication	[1] 诊断方法需评估其灵敏度与特异度，金标准参照下减少假阳性与假阴
+medicine-medical-error	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-medical-dispute	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-medical-quality	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-family-doctor	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-health-insurance	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-drg	[1] 诊断方法需评估其灵敏度与特异度，金标准参照下减少假阳性与假阴
+medicine-public-health-surveillance	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-general-practice	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-hospice	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-brain-death	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-medical-record-system	[1] 临床应用需结合患者具体情况，遵循循证医学证据与诊疗指南推荐
+medicine-nutrition	[1] 消化治疗需关注黏膜保护与屏障功能，避免刺激性饮食与药物相互作
+-- 句内复读条目 --
